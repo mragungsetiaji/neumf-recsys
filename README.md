@@ -1,2 +1,2 @@
 # neumf-recsys
-Recommendation System using Neural Network Matrix Factorization
+Recommendation System using Neural Network Matrix Factorization.
